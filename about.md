@@ -11,7 +11,7 @@ around it and sold it later with my friends.
 
 It has been more than a decade since I started professional software 
 development and I noticed that I have been always in need to learn new stuff
-and also need to remember and re-learn things I have done in the past. 
+and also need to remember and relearn things I have done in the past. 
 
 So this I started to this blog to:  
 

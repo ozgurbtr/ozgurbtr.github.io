@@ -10,7 +10,7 @@ title:            'ozgur batur'
 tagline:          ''
 description:      'A developer blog'
 url:              http://ozgurbatur.com
-baseurl:          /
+baseurl:          ''
 
 author:
   name:           'H. Ozgur Batur'
@@ -19,7 +19,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:          1.0.0
 
 github:
   repo:           https://github.com/ozgurbtr/ozgurbtr.github.io
