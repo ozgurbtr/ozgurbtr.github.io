@@ -1,15 +1,23 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
+Hey there. I am Ozgur. 
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am software developer living in Ankara Turkey. I mostly work on network and
+security related products. I developed the open source project 
+[MyDLP](https://en.wikipedia.org/wiki/MyDLP) and built a commercial bussines
+around it and sold it later with my friends.  
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+It has been more than a decade since I started professional software 
+development and I noticed that I have been always in need to learn new stuff
+and also need to remember and re-learn things I have done in the past. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+So this I started to this blog to:  
+
+- Note tips, methods, technologies or techniques I encountered or utilised.
+- Keep a reference to other sources that are interesting. 
+- Occasionally rant about meaning of life, people, politics and other stuff that I do not have a clue about.
+
+##Contact
+Ping me from [LinkedIn]({{ site.social.linkedin }}) or send a mail to ozgurbtr@gmail.com
