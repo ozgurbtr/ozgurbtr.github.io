@@ -19,5 +19,5 @@ So this I started to this blog to:
 - Keep a reference to other sources that are interesting. 
 - Occasionally rant about meaning of life, people, politics and other stuff that I do not have a clue about.
 
-##Contact
+## Contact
 Ping me from [LinkedIn]({{ site.social.linkedin }}) or send a mail to ozgurbtr@gmail.com
