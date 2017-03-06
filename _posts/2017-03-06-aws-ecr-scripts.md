@@ -18,14 +18,14 @@ images in same region has no network cost.
 You can use IAM user roles to give full access to CI user in your build 
 environment and give read only access to docker hosts.
 
-However contrary docker hub login to private repository ECR requires additional
+However contrary to Docker Hub, login to private repository ECR requires additional
 steps. You need to use IAM user credentials with AWS CLI (you can also do 
 the same with SDK) and acquire a temporary token to docker repo. Moreover, this
 authentication sometimes fails and you may need to try a few times. This
 step is necessary at the end of building image and also for pulling images
 to docker hosts. 
 
-To handle this task and autmate docker machine build with versionin I wrote
+To handle this task and autmate docker machine build with versioning I wrote
 some small [scripts](https://github.com/ozgurbtr/aws-ecr-scripts). It allows you
 to build and automatically tag and push your docker images on AWS ECR repository
 easily. It creates a latest tag and a version tag for latest builded image. It
