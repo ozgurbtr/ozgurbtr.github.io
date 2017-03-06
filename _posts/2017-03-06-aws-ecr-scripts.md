@@ -26,7 +26,7 @@ step is necessary at the end of building image and also for pulling images
 to docker hosts. 
 
 To handle this task and autmate docker machine build with versioning I wrote
-some small [scripts](https://github.com/ozgurbtr/aws-ecr-scripts). It allows you
+a couple of small [scripts](https://github.com/ozgurbtr/aws-ecr-scripts). It allows you
 to build and automatically tag and push your docker images on AWS ECR repository
 easily. It creates a latest tag and a version tag for latest builded image. It
 is fine for my use case but beware using latest tag for deployment is deemed
